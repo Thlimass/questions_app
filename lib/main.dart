@@ -10,7 +10,7 @@ class QuestionsApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: Text('Form Demo'),
+      home: Text('Question Demo'),
     );
   }
 }
